@@ -9,7 +9,7 @@
 <h2>I'm a Product Intern, Software Developer, Teacher, Mentor and Student</h2>
 
 - Open to :man_technologist:Software Engineering and :man_office_worker:Product Management roles | Grad of 2021
-- 🥅 2021 Goals: Mentor as many people as I can, contribute to open source projects and work on great products
+- 🎯 2021 Goals: Mentor as many people as I can, contribute to open source projects and work on great products
 - ⚡ Interesting Fact: I love to play carrom and chess
 
 <h3>Skills</h3>
