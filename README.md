@@ -10,7 +10,7 @@
 
 - Open to :man_technologist:Software Engineering and :man_office_worker:Product Management roles | Grad of 2021
 - 🎯 2021 Goals: Mentor as many people as I can, Contribute to open source projects, and Work on great products
-- ⚡ Interesting Fact: I love to play Carrom, Chess and FreeFire
+- ⚡ Interesting Fact: I love to play Carrom, Chess, and FreeFire
 
 <h3>Skills</h3>
 
