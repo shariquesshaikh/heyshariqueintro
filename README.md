@@ -24,6 +24,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-sharique&show_icons=true&include_all_commits=true&count_private=true&theme=monokai" alt="sk-sharique" />
 
+![](https://komarev.com/ghpvc/?username=sk-sharique)
+
 [website]: https://sk-sharique.github.io/me/
 [linkedin]: https://www.linkedin.com/in/sharique-shaikh/
 [twitter]: https://twitter.com/iamsksharique
