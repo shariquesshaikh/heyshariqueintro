@@ -28,7 +28,7 @@
 
 [website]: https://sk-sharique.github.io/me/
 [linkedin]: https://www.linkedin.com/in/sharique-shaikh/
-[twitter]: https://twitter.com/iamsksharique
+[twitter]: https://twitter.com/heysharique
 [youtube]: https://www.youtube.com/channel/UC2RzsDPnQ-9onbAbXiG8-7A
 [medium]: https://medium.com/@sk_sharique
 [telegram]: https://telegram.me/sk_sharique
