@@ -31,4 +31,4 @@
 [twitter]: https://twitter.com/heysharique
 [youtube]: https://www.youtube.com/channel/UC2RzsDPnQ-9onbAbXiG8-7A
 [medium]: https://medium.com/@sk_sharique
-[telegram]: https://telegram.me/sk_sharique
+[telegram]: https://telegram.me/shariqueshaikh
