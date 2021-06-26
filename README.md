@@ -7,7 +7,7 @@
 <a href="mailto:sharique.shaikh.0123@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][medium]
 
-<h2>I'm a Product Intern, Software Developer, Teacher, Mentor, and Student</h2>
+<h2>I'm a Software Developer, Product Strategist, Teacher, Mentor, and Student</h2>
 
 - Open to :man_technologist:Software Engineering and :man_office_worker:Product Management roles | Grad of 2021
 - 🎯 2021 Goals: Mentor as many people as I can, Contribute to open source projects, and Work on great products
