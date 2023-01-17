@@ -7,7 +7,9 @@
 <!-- <a href="mailto:sharique.shaikh.0123@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> -->
 <!-- [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][medium] -->
 
-<p>I possess experience in Software Development and Product Management.</p>
+<p>Greetings! I appreciate your attention and the time you have taken to view my profile.
+
+As a Product Manager with 2 years of experience, I bring a unique combination of technical expertise and business acumen to my role. My background as a Data Analyst and Software Engineer has given me the ability to analyze customer data and design and develop software solutions. I am confident in my ability to use these skills to drive product strategy, build and manage product roadmaps, and collaborate with cross-functional teams to deliver successful products.</p>
 <p>Technology is my passion. I have the vision to help humanity with great products. I love to solve challenging problems and enjoy talking to people about great product ideas and their execution strategies.</p>
 
 ![](https://komarev.com/ghpvc/?username=sk-sharique)
